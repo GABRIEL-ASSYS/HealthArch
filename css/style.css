@@ -1,0 +1,191 @@
+@font-face {
+    font-family: wght;
+    src: url(../fonte/Oswald-VariableFont_wght.ttf);
+}
+
+html {
+    font-family: wght, sans-serif;
+}
+
+.container {
+    width: 94%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cabecalho-principal {
+    background-color: #FFF;
+}
+
+.cabecalho-principal-nav {
+    display: flex;
+    justify-content: center;
+    margin-right: 2rem;
+}
+
+.nav-link {
+    margin: 1rem;
+    padding: 0.625rem;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #03989e;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    box-shadow: 4px 4px 4px #03989e;
+    background-color: #03989e;
+    color: #FFF;
+    border-radius: 2rem;
+    transform: scale(1.025);
+    transition-duration: 0.25s;
+}
+
+.cabecalho-logo {
+    width: 12.5rem;
+    height: 12.5rem;
+    margin-left: 2rem;
+    padding: 0.15rem;
+}
+
+.cabecalho-logo:hover {
+    transform: scale(1.025);
+    transition-duration: 0.25s;
+}
+
+.conteudo-principal {
+    background-color: #03989e;
+    padding: 3rem;
+    border-radius: 1rem;
+    margin: 0.5rem;
+    color: #022C2F;
+}
+
+.container-conteudo-principal {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.subtitulo {
+    padding: 1.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.imagens {
+    margin-top: 3rem;
+    width: 38.75rem;
+    height: 28.75rem;
+    border-radius: 1rem;
+    border: 0.125rem solid #022C2F;
+}
+
+.rodape {
+    text-align: center;
+    padding: 2rem;
+    margin-top: 2rem;
+}
+
+/* Página de cadastro */
+
+.container-inputs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.input {
+    position: relative;
+    font-size: 2rem;
+    box-sizing: border-box;
+    border: 0.125rem solid #022C2F;
+    border-radius: 0.625rem;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+}
+
+.input:hover {
+    box-shadow: 0.125rem 0.125rem 0.125rem #022C2F;
+    transform: scale(1.025);
+    transition-duration: 1s;
+}
+
+.input-mensagem {
+    box-sizing: border-box;
+    border: 0.125rem solid #022C2F;
+    border-radius: 0.625rem;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+}
+
+.input-mensagem:hover {
+    box-shadow: 0.125rem 0.125rem 0.125rem #022C2F;
+    transform: scale(1.025);
+    transition-duration: 1s;
+}
+
+.label {
+    font-size: 1.5rem;
+}
+
+.titulo-cadastro {
+    font-size: 3rem;
+    padding: 2rem;
+    text-transform: uppercase;
+}
+
+.subtitulo-cadastro {
+    font-size: 2rem;
+    padding: 1.5rem;
+}
+
+.botao-confirma {
+    background-color: #079480;
+    font-size: 2rem;
+    box-sizing: border-box;
+    border: 0.125rem solid #022C2F;
+    text-transform: uppercase;
+    color: #022C2F;
+    border-radius: 0.625rem;
+    padding: 0.75rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.botao-confirma:hover {
+    cursor: pointer;
+    box-shadow: 0.125rem 0.125rem 0.125rem #022C2F;
+    transform: scale(1.025);
+    transition-duration: 1s;
+}
+
+.paragrafos {
+    padding: 0 5rem 3rem 5rem;
+    text-align: justify;
+    position: relative;
+    font-size: 1.25rem;
+    width: 50%;
+}
+
+.mapa {
+    box-sizing: border-box;
+    border: 0.125rem solid #022C2F;
+    border-radius: 0.625rem;
+    margin-top: 3rem;
+    width: 38.75rem;
+    height: 28.75rem;
+}
+
+.video {
+    margin-top: 4rem;
+    box-sizing: border-box;
+    border: 0.125rem solid #022C2F;
+    border-radius: 0.625rem;
+}
