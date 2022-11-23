@@ -1,0 +1,28 @@
+.container {
+    width: 94%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.conteudo-principal {
+    background-color: var(--cor-primaria);
+    padding: 3rem;
+    border-radius: 1rem;
+    margin: 0.5rem;
+    color: var(--cor-secundaria);
+}
+
+.container-conteudo-principal {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+    .conteudo-principal {
+        padding: 0;
+        margin: 0;
+    }
+}

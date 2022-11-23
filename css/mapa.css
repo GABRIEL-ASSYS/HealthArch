@@ -1,0 +1,16 @@
+.mapa {
+    box-sizing: border-box;
+    border: 0.125rem solid var(--cor-secundaria);
+    border-radius: 0.625rem;
+    margin-top: 3rem;
+    width: 38.75rem;
+    height: 28.75rem;
+}
+
+@media screen and (max-width: 768px){
+    .mapa {
+        width: auto;
+        height: auto;
+        margin-top: .25rem;
+    }
+}

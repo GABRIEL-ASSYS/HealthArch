@@ -1,0 +1,14 @@
+.video {
+    margin-top: 4rem;
+    box-sizing: border-box;
+    border: 0.125rem solid var(--cor-secundaria);
+    border-radius: 0.625rem;
+}
+
+@media screen and (max-width: 768px){
+    .video {
+        width: auto;
+        height: auto;
+        margin-top: .25rem;
+    }
+}
