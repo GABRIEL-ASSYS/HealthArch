@@ -1,47 +1,38 @@
-<h1 align="center">HealthArch</h1>
+# HealthArch 
 
-### É um projeto particular desenvolvido para semana de provas do curso de Engenharia de Software, trata-se do site de uma empresa de administração de consultórios na área de saúde.
+  A HealthArch é um projeto criado como projeto para a prova avaliativa do Segundo bimestre de Desenvolvimento WEB/Mobile II no curso de Engenharia de Software, com o objetivo de demosntrar o aprendizado de desenvolvimento WEB utilizando as linguagens HTML5, CSS3 e JavaScript, é uma aplicação de autoria completamente minha, a idealização de empresa e as suas funções, com tudo sendo criado do zero ,sendo uma aplicação pensada para auxiliar a gestão de consultas de qualquer área da saúde, também auxiliando na administração do estoque de remédios e ferramentas de trabalho, contendo informações sobre a empresa, uma área para cadastro e outra para login, e também contendo informações de contato e localização. O JavaScript neste projeto foi utiliado para criar padrões para preenchimento de senhas, e-mails, telefone e sobre o cadastro regional do profissional, uitilizando como base a lógica do CRM.
 
-## Alguns campos no Modelo Main são:
+## 🚀 Começando
 
-+ Nome 
-+ Descrição
-+ Imagens
-+ Links
-+ Botões
-+ Vídeo
-+ Mapa
+Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-## Também tem a área de criar conta que usa estes campos:
+### 📋 Pré-requisitos
 
-+ Nome
-+ E-mail
-+ Número de telefone
-+ Senha
-+ Número de cadastro regional
+De que coisas você precisa para instalar o software e como instalá-lo?
 
-#### Existe um cadastro específico para o profissional e um para o cliente, o do cliente não pede um número de cadastro regional.
+* Utilizar uma IDE como por exemplo Visual Studio Code (de preferência com a extensão LiveServer) para compilar o projeto.
 
-## Também tem a área de Login que usa estes campos:
+### 🔧 Instalação
 
-+ Nome
-+ E-mail
-+ Senha
+* Acesse a paleta de Comandos do Visual Studio Code.
+* No prompt da paleta de comandos, insira <b>gitcl</b>, selecione o comando Git: <b>Clone</b> e pressione <b>Enter</b>.
+* Quando for solicitada a URL do Repositório, selecione Clonar do GitHub e pressione <b>Enter</b>.
+* Se for solicitado que você entre no GitHub, conclua o processo de entrada.
+* Insira https://github.com/GABRIEL-ASSYS/HealthArch no campo URL do Repositório.
+* Selecione (ou crie) o diretório local no qual você deseja clonar o projeto.
+* Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
 
-## Também tem a área Fale Conosco que usa estes campos:
-### Contato por E-mail:
-  
-+ Nome
-+ E-mail
-+ Mensagem
+## 🛠️ Construído com
 
-### Contato por WhatsApp:
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Para o marcação da página
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Para a estilização da página
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Para dinamização da página
 
-+ Nome
-+ Número de Telefone
-+ Mensagem
+## ✒️ Autores
 
-## Tecnologias usadas:
+* Gabriel Assys <br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-assys/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabriel_brachak/)
 
-+ HTML5
-+ CSS3
+---
+⌨️ com ❤️ por [Gabriel Assys](https://github.com/GABRIEL-ASSYS) 😊
