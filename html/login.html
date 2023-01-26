@@ -38,18 +38,18 @@
             <ul>
                 <li><label class="label" for="nome">Nome:</label></li>
                 <li><input class="input" type="text" id="nome" required data-tipo="nome"></li>
-                <span class="input-mensagem-erro">Este campo não está válido</span>
+                <span class="input-mensagem-erro">O campo Nome não pode estar vazio</span>
 
                 <li><label class="label" for="email">E-mail:</label></li>
                 <li><input class="input" type="email" id="email" required data-tipo="email"></li>
-                <span class="input-mensagem-erro">Este campo não está válido</span>
+                <span class="input-mensagem-erro">O E-mail digitado não é valido</span>
 
                 <li><label class="label" for="senha">Senha:</label></li>
                 <li><input class="input" type="password" id="senha" required data-tipo="senha"
                         pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?!.*[!@#$%^&*_=+-]).{6,12}$"
                         title="A senha deve conter entre 6 a 12 caracteres, deve conter pelo menos uma letra maiúscula, um número e não deve conter símbolos.">
                 </li>
-                <span class="input-mensagem-erro">Este campo não está válido</span>
+                <span class="input-mensagem-erro">A senha deve conter entre 6 e 12 caracteres e conter pelo menos uma letra maiúscula, uma letra minúscula e um número</span>
             </ul>
             <a href=""><button class="botao-confirma">confirmar</button></a>
         </div>
