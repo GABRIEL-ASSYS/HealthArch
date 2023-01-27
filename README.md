@@ -1,4 +1,4 @@
-# HealthArch 
+# HealthArch  👨‍⚕️
 
   A HealthArch é um projeto criado como projeto para a prova avaliativa do Segundo bimestre de Desenvolvimento WEB/Mobile II no curso de Engenharia de Software, com o objetivo de demosntrar o aprendizado de desenvolvimento WEB utilizando as linguagens HTML5, CSS3 e JavaScript, é uma aplicação de autoria completamente minha, a idealização de empresa e as suas funções, com tudo sendo criado do zero ,sendo uma aplicação pensada para auxiliar a gestão de consultas de qualquer área da saúde, também auxiliando na administração do estoque de remédios e ferramentas de trabalho, contendo informações sobre a empresa, uma área para cadastro e outra para login, e também contendo informações de contato e localização. O JavaScript neste projeto foi utiliado para criar padrões para preenchimento de senhas, e-mails, telefone e sobre o cadastro regional do profissional, uitilizando como base a lógica do CRM.
 
