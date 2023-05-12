@@ -2,32 +2,6 @@
 
   A HealthArch é um projeto criado como projeto para a prova avaliativa do Segundo bimestre de Desenvolvimento WEB/Mobile II no curso de Engenharia de Software, com o objetivo de demosntrar o aprendizado de desenvolvimento WEB utilizando as linguagens HTML5, CSS3 e JavaScript, é uma aplicação de autoria completamente minha, a idealização de empresa e as suas funções, com tudo sendo criado do zero ,sendo uma aplicação pensada para auxiliar a gestão de consultas de qualquer área da saúde, também auxiliando na administração do estoque de remédios e ferramentas de trabalho, contendo informações sobre a empresa, uma área para cadastro e outra para login, e também contendo informações de contato e localização. O JavaScript neste projeto foi utiliado para criar padrões para preenchimento de senhas, e-mails, telefone e sobre o cadastro regional do profissional, uitilizando como base a lógica do CRM.
 
-
-## Página principal:
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print.png)
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%202.png)
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%203.png)
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%204.png)
-
-## Criar conta:
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%205.png)
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%206.png)
-
-## Fazer Login:
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%207.png)
-
-## Sobre nós:
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%208.png)
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%209.png)
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%2010.png)
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%2011.png)
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%2012.png)
-
-## Fale conosco:
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%2013.png)
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%2014.png)
-![print da página](https://github.com/GABRIEL-ASSYS/HealthArch/blob/main/img/print%2015.png)
-
 ## 🚀 Começando
 
 Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
